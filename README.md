@@ -117,7 +117,7 @@ CREATE DATABASE bookstore_db;
 
 - PDF invoice generation
 
-Order tracking system
+- Order tracking system
 
 
 
